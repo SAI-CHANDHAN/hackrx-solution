@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+PyPDF2==3.0.1
+openai==0.28.1
+sentence-transformers==2.3.2
+scikit-learn==1.4.2
+numpy==1.26.4
+requests==2.31.0
+pydantic==2.5.0
+python-multipart==0.0.6
+torch==2.1.2
+transformers==4.36.2
